@@ -19,7 +19,7 @@ def main() -> int:
                         format="%(asctime)s %(levelname)-7s %(name)s: %(message)s")
 
     app = QApplication(sys.argv)
-    app.setOrganizationName("D6VAlex")
+    app.setOrganizationName("z01309z")
     app.setApplicationName("Orbit")
     app.setWindowIcon(app_icon())
 
