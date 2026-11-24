@@ -1,16 +1,6 @@
 # Orbit Launcher
 
-Orbit is a Windows game launcher that finds the games already installed on your PC and gathers them in one fast, good looking library. It is made by D6VAlex.
-
-## Screenshots
-
-![Orbit library](docs/screenshot-library.png)
-
-| Quick launcher (Ctrl + Alt + Space) | News for your games |
-| --- | --- |
-| ![Quick launcher](docs/screenshot-quick-launcher.png) | ![News](docs/screenshot-news.png) |
-| **Screenshot gallery** | **Settings** |
-| ![Gallery](docs/screenshot-gallery.png) | ![Settings](docs/screenshot-settings.png) |
+Orbit is a Windows game launcher that finds the games already installed on your PC and gathers them in one fast, good looking library. It is made by z01309z.
 
 ## Features
 
@@ -69,4 +59,4 @@ utils/: Windows helpers such as EXE icon extraction
 
 ## Credits and license
 
-Orbit is made by D6VAlex. All rights reserved.
+Orbit is made by z01309z. All rights reserved.
