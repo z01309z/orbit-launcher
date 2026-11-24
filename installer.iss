@@ -10,9 +10,9 @@
 AppId={{D0E61B04-C58C-4D44-A833-E867AB3813DE}
 AppName={#MyAppName}
 AppVersion={#APP_VERSION}
-AppPublisher=D6VAlex
-AppPublisherURL=https://github.com/D6VAlex/orbit-launcher
-AppUpdatesURL=https://github.com/D6VAlex/orbit-launcher/releases/latest
+AppPublisher=z01309z
+AppPublisherURL=https://github.com/z01309z/orbit-launcher
+AppUpdatesURL=https://github.com/z01309z/orbit-launcher/releases/latest
 DefaultDirName={autopf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 UninstallDisplayName={#MyAppName}
