@@ -266,7 +266,7 @@ class _FooterBar(QWidget):
         layout.setContentsMargins(16, 4, 16, 4)
 
         layout.addStretch(1)
-        credit = QLabel("By D6VAlex")
+        credit = QLabel("By z01309z")
         credit.setObjectName("FooterCredit")
         layout.addWidget(credit)
 
