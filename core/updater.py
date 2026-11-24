@@ -14,7 +14,7 @@ from PySide6.QtNetwork import (QNetworkAccessManager, QNetworkReply,
 log = logging.getLogger(__name__)
 
 APP_VERSION = "1.1.1"
-UPDATE_URL = ("https://raw.githubusercontent.com/D6VAlex/orbit-launcher/"
+UPDATE_URL = ("https://raw.githubusercontent.com/z01309z/orbit-launcher/"
               "main/latest.json")
 
 _MANIFEST_HOSTS = {"github.com", "raw.githubusercontent.com"}
